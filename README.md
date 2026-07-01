@@ -1,6 +1,6 @@
 <div align="center">
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XomyakFake&layout=compact&theme=dark&hide_border=true)
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XomyakFake&layout=compact&theme=dark&hide_border=true)
 
 ---
 
