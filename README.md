@@ -1,6 +1,6 @@
 <div align="center">
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XomyakFake&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XomyakFake&layout=compact&hide_border=true" alt="Most Used Languages" />
 
 ---
 
